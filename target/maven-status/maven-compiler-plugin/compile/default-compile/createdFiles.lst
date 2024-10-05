@@ -1,0 +1,4 @@
+com\demo\api_gateway\filter\AuthenticationFilter$Config.class
+com\demo\api_gateway\filter\AuthenticationFilter.class
+com\demo\api_gateway\filter\RouteValidator.class
+com\demo\api_gateway\ApiGatewayApplication.class
